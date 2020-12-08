@@ -1,4 +1,4 @@
-# BIOS Setting
+### BIOS Setting
 1. Advanced \ Chipset Configuration → Vt-d : Disabled
 2. Advanced \ Super IO Configuration → Serial Port: Disabled
 3. Advanced \ USB Configuration → XHCI Hand-off : Enabled
